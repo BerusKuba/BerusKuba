@@ -1,0 +1,5 @@
+Mark1 = int(input( "What is the students mark for the program module?"))
+Mark2 = int(input( "What is the students mark for the exam?"))
+FinalScore = ((Mark1 * 0.6) + (Mark2 * 0.4))
+FinalScore = round(FinalScore)
+print(f"The students total mark is: {FinalScore}")  

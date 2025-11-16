@@ -1,6 +1,7 @@
 ## Welcome! 
 This is my profile! For now all I'm doing on it is University tasks. 
 I study at Leeds Beckett University and am learning Python. 
+Pretty much all of my commits so far have been on the University provided repository. 
 
 <!--
 **BerusKuba/BerusKuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
